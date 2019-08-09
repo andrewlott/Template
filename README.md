@@ -1,2 +1,2 @@
 # Template
-Unity Template for Entity Component System
+Unity Template using Entity Component System
